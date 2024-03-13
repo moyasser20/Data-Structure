@@ -24,6 +24,7 @@ void insertionSortLinear(int arr[], int size)
     }
     cout << "Number of comparisons: " << comparisons << endl;
     cout << "Number of shifts: " << shifts << endl;
+    cout<<"heloo";
 }
 
 void insertionSortBinary(int arr[], int n)
